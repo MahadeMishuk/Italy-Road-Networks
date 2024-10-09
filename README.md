@@ -16,9 +16,9 @@ In this project, the road network of Italy is represented as a graph, where inte
 The dataset used in this project is sourced from the Purdue University Network Repository (https://networkrepository.com/index.php). The dataset used for this project comprises traffic flow data from the Italy road network. The edges represent roads, and the nodes signify intersections.
 
 <p align="center">
-  <img width="300" alt="Screenshot" src="https://github.com/user-attachments/assets/adb9bb14-77b7-4135-ae3f-901bf1d88506">
-  <img width="300" alt="Screenshot" src="https://github.com/user-attachments/assets/46befa65-0615-422d-b781-22993b60c58d">
-  <img width="300" alt="Screenshot" src="https://github.com/user-attachments/assets/13ed5498-dfca-4302-b0e8-db49a2dfefdf">
+  <img width="255" alt="Screenshot" src="https://github.com/user-attachments/assets/adb9bb14-77b7-4135-ae3f-901bf1d88506">
+  <img width="255" alt="Screenshot" src="https://github.com/user-attachments/assets/46befa65-0615-422d-b781-22993b60c58d">
+  <img width="255" alt="Screenshot" src="https://github.com/user-attachments/assets/13ed5498-dfca-4302-b0e8-db49a2dfefdf">
 
 </p>
 
